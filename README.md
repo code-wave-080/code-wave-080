@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:9173DF,100:B578C5&height=300&section=header&text=Codewave's-nl-Github&fontSize=50&fontColor=191f28&stroke=CDADD4&strokeWidth=0.5" alt="header" />
-</p>
+</p> -->
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
