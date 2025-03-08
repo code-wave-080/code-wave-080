@@ -79,10 +79,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=code-wave-080&theme=radical&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
   </a>
-</p>
+</p> -->
 
 <!-- [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-wave-080&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
