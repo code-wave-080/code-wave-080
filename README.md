@@ -1,6 +1,10 @@
 <!--
 **code-wave-080/code-wave-080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+icons:
+https://shields.io/docs/logos
+https://simpleicons.org/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,14 +25,19 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/vue-029E49.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -37,7 +46,13 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />&nbsp;
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFC400?style=for-the-badge&logo=firebase&logoColor=000000" />&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;
 </div>
 
 <br>
@@ -51,14 +66,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=fff" />&nbsp
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <!-- <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp -->
+  <img src="https://img.shields.io/badge/intellij-000.svg?style=for-the-badge&logo=intellijidea&logoColor=fff" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/intellij-000.svg?style=for-the-badge&logo=intellijidea&logoColor=fff" />&nbsp
+  <!-- <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp -->
   <!-- <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp -->
   <!-- <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
